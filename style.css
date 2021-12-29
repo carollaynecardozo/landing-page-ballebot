@@ -71,6 +71,12 @@ body{
     color:#ECD6C4;
 }
 
+.conteudo-principal-escrito-botao:hover {
+    background-color: rgba(236, 214, 196,0.53);
+ 
+
+}
+
 .conteudo-principal-escrito-botao{
     background-color: #ECD6C4;
     width: 180px;
